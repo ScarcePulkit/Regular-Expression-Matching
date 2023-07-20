@@ -1,0 +1,2 @@
+# Regular-Expression-Matching
+The main.cpp file contains C++ code for matching a regular expression with a given string. Essentially, it first implements the NFA (Non-Deterministic Finite Automaton) for operations such as concatenation, union, +(at least one occurrence), *(zero or more occurrences), and then proceeds with parsing the given string to find the longest match of the string with the expression. For detailed implementation specifics, please refer to the Problem Statement document before viewing the main.cpp file.
